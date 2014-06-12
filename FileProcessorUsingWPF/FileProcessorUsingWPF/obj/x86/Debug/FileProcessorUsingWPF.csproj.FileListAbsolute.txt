@@ -1,0 +1,13 @@
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\App.g.cs
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\FileProcessorUsingWPF_MarkupCompile.cache
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\FileProcessorUsingWPF.g.resources
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\FileProcessorUsingWPF.Properties.Resources.resources
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\FileProcessorUsingWPF.csproj.GenerateResource.Cache
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\bin\Debug\FileProcessorUsingWPF.exe
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\bin\Debug\FileProcessorUsingWPF.pdb
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\ProgressBarWindow.baml
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\ProgressBarWindow.g.cs
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\FileProcessorUsingWPF.exe
+C:\Users\1030290\Documents\Visual Studio 2010\Projects\PrecisionDiscovery\FileProcessorUsingWPF\FileProcessorUsingWPF\obj\x86\Debug\FileProcessorUsingWPF.pdb

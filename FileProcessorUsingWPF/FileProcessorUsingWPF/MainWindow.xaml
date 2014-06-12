@@ -1,0 +1,19 @@
+﻿<Window x:Class="FileProcessorUsingWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="525">
+    <Grid Background="Beige">
+        <Label Content="Directory1" Height="28" HorizontalAlignment="Left" Margin="46,100,0,0" Name="label1" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="141,106,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" />
+        <Button Content="Browse" Height="28" HorizontalAlignment="Left" Margin="301,106,0,0" Name="BrowseButton1" VerticalAlignment="Top" Width="88" Click="BrowseButton1_Click" FontSize="14"/>
+        <Label Content="Directory2" Height="28" HorizontalAlignment="Left" Margin="47,152,0,0" Name="label2" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="142,154,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" />
+        <Button Content="Browse" Height="28" HorizontalAlignment="Left" Margin="301,152,0,0" Name="BrowseButton2" VerticalAlignment="Top" Width="88" Click="BrowseButton2_Click" FontSize="14"/>
+        <Label Content="Directory3" Height="28" HorizontalAlignment="Left" Margin="49,199,0,0" Name="label3" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="143,202,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" />
+        <Button Content="Browse" Height="28" HorizontalAlignment="Left" Margin="301,199,0,0" Name="BrowseButtonutton3" VerticalAlignment="Top" Width="88" Click="BrowseButton3_Click" FontSize="14"/>
+        <Button Content="Process" Height="23" HorizontalAlignment="Left" Margin="166,257,0,0" Name="Process" VerticalAlignment="Top" Width="147" Click="Process_Click" FontSize="14"/>
+        <TextBlock Height="56" HorizontalAlignment="Left" Margin="45,295,0,0" Name="textBlock1" VerticalAlignment="Top" Width="416" TextWrapping="Wrap" Foreground="Maroon" FontSize="16" Background="Beige"/>
+        <TextBlock Height="68" HorizontalAlignment="Left" Margin="45,18,0,0" Name="textBlock2"  VerticalAlignment="Top" Width="416" TextWrapping="Wrap" Foreground="Blue" FontSize="16" Background="Beige">Please choose 3 directories and click on the "Process" button to see the aggregate of all file sizes within the specified directories</TextBlock> 
+    </Grid>
+</Window>

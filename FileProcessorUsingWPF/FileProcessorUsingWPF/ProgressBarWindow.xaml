@@ -1,0 +1,8 @@
+﻿<Window x:Class="FileProcessorUsingWPF.ProgressBarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ProgressBarWindow" Height="79" Width="268" WindowStartupLocation="CenterOwner" WindowStyle="None">
+<Grid Height="31" Background="Beige">
+    <ProgressBar Height="30" HorizontalAlignment="Left" Name="progressBar1" VerticalAlignment="Top" Width="244" IsIndeterminate="True" />
+</Grid>
+</Window>
